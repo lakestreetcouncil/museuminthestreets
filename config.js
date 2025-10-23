@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Coliseum Building',
-            image: './images/photo1.jpg',
+            image: './photos/photo1.jpg',
             description: 'A Native of Lake City, Minnesota, Elmer E.B. Freeman opened a small haberdashery shop near East 25th Street and 26th Avenue around 1914.',
             location: {
                 center: [-93.23238, 44.94868],
